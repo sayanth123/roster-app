@@ -12,4 +12,8 @@
    DB_DATABASE=/absolute/path/to/database.sqlite
 
 
-   ![image](https://github.com/user-attachments/assets/40fc3a51-1dab-498d-a10b-667a29fbe9db)
+
+
+
+![image](https://github.com/user-attachments/assets/0ab3d050-6ad7-43a8-bc89-9d5240d08a63)
+
